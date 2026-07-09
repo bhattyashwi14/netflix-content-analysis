@@ -124,14 +124,14 @@ This project treats the Netflix dataset as a lens into these questions — groun
 
 <div align="center">
 
-**Data Collection**
-↓
-**Data Cleaning & Preprocessing**
-↓
-**Exploratory Data Analysis**
-↓
-**Interactive & Static Visualization**
-↓
+**Data Collection** <br>
+↓ <br>
+**Data Cleaning & Preprocessing** <br>
+↓ <br>
+**Exploratory Data Analysis** <br>
+↓ <br>
+**Interactive & Static Visualization**<br> 
+↓ <br>
 **Business Insights**
 
 </div>
