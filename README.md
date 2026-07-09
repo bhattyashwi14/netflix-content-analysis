@@ -100,7 +100,6 @@ This project treats the Netflix dataset as a lens into these questions — groun
 | **Format** | CSV |
 | **Description** | Contains metadata for Netflix titles, including type (Movie/TV Show), title, director, cast, country, date added, release year, rating, duration, genre (`listed_in`), and description |
 
-> **Note:** Row and column counts should be filled in based on the final cleaned dataset.
 
 <br>
 
